@@ -2,9 +2,15 @@
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages = with pkgs; [
+    direnv
     (discord.override {
       withVencord = true;
     })
+    lf
+    neovim
+    obsidian
+    ripgrep
+    tmux
     wezterm
   ];
 
