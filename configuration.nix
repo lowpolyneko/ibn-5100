@@ -16,6 +16,7 @@
     ripgrep
     ruff
     slack
+    syncthing-macos
     tmux
     uv
     wezterm
