@@ -15,6 +15,7 @@
     obsidian
     ripgrep
     ruff
+    slack
     tmux
     uv
     wezterm
