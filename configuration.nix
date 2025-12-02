@@ -7,6 +7,7 @@
     (discord.override {
       withVencord = true;
     })
+    keepassxc
     keka
     lf
     neovim
