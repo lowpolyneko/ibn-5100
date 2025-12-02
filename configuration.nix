@@ -20,6 +20,7 @@
     tmux
     uv
     wezterm
+    zoom-us
   ];
 
   # Homebrew packages.
