@@ -14,6 +14,19 @@
     wezterm
   ];
 
+  # Homebrew packages.
+  homebrew = {
+    enable = true;
+    casks = [
+      "deskflow"
+      "proton-mail-bridge"
+      "spotify"
+    ];
+  };
+
+  # Set primary user.
+  system.primaryUser = "ewong";
+
   # Allow unfree.
   nixpkgs.config.allowUnfree = true;
 
