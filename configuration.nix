@@ -7,6 +7,7 @@
     (discord.override {
       withVencord = true;
     })
+    firefox-unwrapped
     keepassxc
     keka
     lf
