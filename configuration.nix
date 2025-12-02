@@ -7,6 +7,7 @@
     (discord.override {
       withVencord = true;
     })
+    keka
     lf
     neovim
     obsidian
