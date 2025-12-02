@@ -24,6 +24,7 @@
     enable = true;
     casks = [
       "deskflow"
+      "displaylink"
       "proton-mail-bridge"
       "spotify"
     ];
