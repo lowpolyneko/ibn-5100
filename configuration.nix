@@ -13,6 +13,7 @@
     lf
     neovim
     obsidian
+    podman
     ripgrep
     ruff
     slack
