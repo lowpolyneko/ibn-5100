@@ -8,6 +8,7 @@
       withVencord = true;
     })
     firefox-unwrapped
+    gnupg
     keepassxc
     keka
     lf
