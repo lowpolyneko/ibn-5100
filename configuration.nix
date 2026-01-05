@@ -17,6 +17,7 @@
     ripgrep
     ruff
     slack
+    spotify
     syncthing-macos
     tmux
     uv
@@ -31,7 +32,6 @@
       "deskflow"
       "displaylink"
       "proton-mail-bridge"
-      "spotify"
     ];
   };
 
