@@ -15,6 +15,7 @@
     neovim
     obsidian
     podman
+    poetry
     ripgrep
     ruff
     slack
