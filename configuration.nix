@@ -7,7 +7,7 @@
     (discord.override {
       withVencord = true;
     })
-    firefox-unwrapped
+    firefox-bin
     gnupg
     keepassxc
     keka
