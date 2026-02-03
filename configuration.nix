@@ -15,6 +15,7 @@
     neovim
     obsidian
     podman
+    podman-compose
     ripgrep
     ruff
     slack
