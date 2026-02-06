@@ -8,7 +8,6 @@
       withVencord = true;
     })
     firefox-bin
-    gnupg
     keepassxc
     keka
     lf
