@@ -30,6 +30,9 @@
   # Homebrew packages.
   homebrew = {
     enable = true;
+    taps = [
+      "deskflow/tap"
+    ];
     casks = [
       "deskflow"
       "displaylink"
