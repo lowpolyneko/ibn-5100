@@ -17,13 +17,11 @@
     podman-compose
     ripgrep
     ruff
-    slack
     spotify
     syncthing-macos
     tmux
     uv
     wezterm
-    zoom-us
   ];
 
   # Homebrew packages.
@@ -36,6 +34,8 @@
       "deskflow"
       "displaylink"
       "proton-mail-bridge"
+      "slack"
+      "zoom"
     ];
   };
 
