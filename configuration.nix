@@ -13,6 +13,7 @@
     lf
     neovim
     obsidian
+    pdfpc
     podman
     podman-compose
     ripgrep
