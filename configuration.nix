@@ -17,6 +17,7 @@
     podman-compose
     ripgrep
     ruff
+    sioyek
     spotify
     syncthing-macos
     tmux
