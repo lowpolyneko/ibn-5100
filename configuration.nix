@@ -19,6 +19,7 @@
     ruff
     sioyek
     spotify
+    sqlitebrowser
     syncthing-macos
     tmux
     uv
