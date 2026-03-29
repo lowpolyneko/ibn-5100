@@ -37,6 +37,7 @@
       "displaylink"
       "proton-mail-bridge"
       "slack"
+      "tunnelblick"
       "zoom"
     ];
   };
