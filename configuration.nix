@@ -11,6 +11,7 @@
     keepassxc
     keka
     lf
+    mpv
     neovim
     obsidian
     podman
