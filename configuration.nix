@@ -24,6 +24,7 @@
     syncthing-macos
     tmux
     uv
+    yt-dlp
     wezterm
   ];
 
