@@ -8,6 +8,7 @@
       withVencord = true;
     })
     firefox-bin
+    htop
     keepassxc
     keka
     lf
