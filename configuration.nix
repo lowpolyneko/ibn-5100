@@ -41,6 +41,7 @@
       "proton-mail-bridge"
       "slack"
       "tunnelblick"
+      "ungoogled-chromium"
       "zoom"
     ];
   };
