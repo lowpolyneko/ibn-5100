@@ -11,6 +11,8 @@
     htop
     keepassxc
     keka
+    kubectl
+    kubelogin-oidc
     lf
     mpv
     neovim
